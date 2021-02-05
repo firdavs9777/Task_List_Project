@@ -1,0 +1,46 @@
+body {
+    background-color: #94b5c0;
+}
+.container
+{
+    justify-content: center;
+    height:50vh;
+    margin: auto;
+    padding-top: 20px;
+    width: 50%;
+}
+.container .card-title
+{
+    text-align: center;
+    font-size: 35px;
+    color: #350b40;
+}
+.Add 
+{
+    height:40px;
+    width:580px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+h5 
+{
+    text-align: center;
+    font-size: 35px;
+    color: #350b40;
+}
+#filter
+{
+    font-size: 30px;
+}
+.clear-tasks
+{
+
+    height:40px;
+    width:560px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+
+}
+
